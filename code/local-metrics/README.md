@@ -3,7 +3,7 @@
 The script allows you to calculate local spatial metrics that measure the shooting efficiency of players in individual cells in relation to the league average. 
 To run the script, you must have a layer in SHP format with the estimated league PPA value obtained in the previous *empirical_bayes.py* script (e.g., the *EB.shp* file).
 
-**Input parameters** 
+**Input parameters for the program** 
 
 For the program to work correctly, the following input parameters must be entered in the following order:
 
