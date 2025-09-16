@@ -57,7 +57,7 @@ It is recommended to enter the clue parameter which will allow you to download s
 
 *POL, 2nd League, 2310000, 2450000, “C:/Users/Desktop/output”, shooting_data.csv*
 
-**Program result**
+**Program output**
 
 The program will save the output data in the folder defined when entering the parameters to the script *C:/Users/Desktop/output*. A result file with complete shooting data *shooting_data.csv* will appear in this folder. Additionally, data for each player will be saved in separate files in CSV and SHP formats. The destination folder for this data is the players subdirectory of the defined output folder *C:/Users/Desktop/output/players*.
 
